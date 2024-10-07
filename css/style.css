@@ -97,8 +97,18 @@ section {
 
 .blue {
     background-color: #255EE9;
-
+    /* background-color: #4ea0ff; */
+        background-image: url(../img/jumbo.png);
+        background-position: left;
+        background-size: contain;
+        position: relative;
+        background-repeat: no-repeat;
 }
+
+.banner
+    
+
+
 
 .white {
     background-color: #FFFFFF;
@@ -110,12 +120,17 @@ section {
 
 
 .hero-container {
-    background-color: #255EE9;
+    /* background-color: #255EE9; */
+    
     min-height: 300px;
     width: 40%;
     max-width: 900px;
     margin: 0 auto;
     color: white;
+    text-align: center;
+    
+        
+        
 }
 
 .title {
