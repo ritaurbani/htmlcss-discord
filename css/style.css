@@ -133,6 +133,8 @@ section {
 .text {
     padding-bottom: 20px;
 }
+
+
 .two-btn {
     padding-top: 40px;
 }
@@ -157,6 +159,11 @@ section {
     color: white;
 }
 
+.btn-blue {
+    background-color: #255EE9;
+        color: white;
+}
+
 .two-col {
     display: flex;
     justify-content:flex-start;
@@ -165,7 +172,7 @@ section {
 }
 
 .col-70 {
-    background-color: #1E90FF;
+    /* background-color: #1E90FF; */
     width: 60%;
 }
 
@@ -177,22 +184,22 @@ section {
 }        
        
 .col-30 {
-    background-color: #FFC0CB;
+    /* background-color: #FFC0CB; */
     width: 40%;
 }
 
 .text {
-    padding-top: 30px;
+    padding-top: 10px;
 }
     
 .green {
-    background-color: #228B22;
+    /* background-color: #228B22; */
     /* height: 600px; */
-    border-style: dashed;
+    /* border-style: dashed; */
 }
 
 .avventura {
-    padding-top: 20px;
+    padding: 20px;
 }
 
 .five-col {
