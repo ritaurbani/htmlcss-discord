@@ -228,8 +228,9 @@ section {
     background-color: #23272A;
     height: 40px;
     margin-top: 15px;
-    padding: 20px 0px 20px;
+    padding: 30px 0px px 0px;
     align-items: center;
+    border-top: 2px solid #7289DA;
 }
 
 .footer {
