@@ -161,7 +161,7 @@ section {
 
 .btn-blue {
     background-color: #255EE9;
-        color: white;
+        color: #F2F7FD;
 }
 
 .two-col {
@@ -192,11 +192,11 @@ section {
     padding-top: 10px;
 }
     
-.green {
+/* .green {
     /* background-color: #228B22; */
     /* height: 600px; */
     /* border-style: dashed; */
-}
+ 
 
 .avventura {
     padding: 20px;
@@ -210,21 +210,22 @@ section {
 }
 
 .col-15  {
-    background-color: #20B2AA;
+    background-color:#23272A;
     width: 40%;
 }
 
 .col-40 {
-    background-color: #F08080;
+    background-color:#23272A ;
     width: 40%;
+    color: #FFFFFF;
 
-    border-right-style: dashed;
+    /* border-right-style: dashed; */
 }
 
 .flex {
     display: flex;
     justify-content: space-between;
-    background-color: #7FFFD4;
+    background-color: #23272A;
     height: 40px;
     margin-top: 15px;
     padding: 20px 0px 20px;
@@ -236,30 +237,53 @@ section {
     padding-top: 15px;
 }
 
+.footer-text {
+    padding: 20px 0;
+    color: #7289DA;
+}
+
+.icons{
+    color: #FFFFFF;
+    padding-top: 15px;
+}
 /*utility*/
 
-.has-left-dashed-border {
-    border-left-style: dashed;
-    border-left-color: #FFFFFF;
-}
 /* .has-left-dashed-border {
     border-left-style: dashed;
-}
-.has-left-dashed-border {
-    border-left-style: dashed;
-}
-.has-left-dashed-border {
-    border-left-style: dashed;
+    border-left-color: #FFFFFF;
 } */
+ 
 
 /* .btn {
     background-color:;
     padding:  */
 
-.item1 {
+/* .item1 {
     background-color:;
     padding: 5px;
     border: 1px solid #23272A;
+} */
+
+.footer-col {
+    
+    font-family: Whitney;
+    font-weight: 400;
+    font-size: 14px;
+    color: white;
+    padding: 20px;
+    list-style: none;
+    /* margin: 10px; */
 }
+
+ul li {
+    margin-bottom: 10px;
+}
+
+.divider {
+    color: #7289DA;
+}
+
+
+
 
 
