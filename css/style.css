@@ -96,19 +96,14 @@ section {
 }
 
 .blue {
-    background-color: #255EE9;
-    /* background-color: #4ea0ff; */
+    /* background-color: #255EE9; */
+    
         background-image: url(../img/jumbo.png);
         background-position: left;
-        background-size: contain;
-        position: relative;
+        background-size:cover;
         background-repeat: no-repeat;
+        
 }
-
-.banner
-    
-
-
 
 .white {
     background-color: #FFFFFF;
@@ -128,9 +123,6 @@ section {
     margin: 0 auto;
     color: white;
     text-align: center;
-    
-        
-        
 }
 
 .title {
