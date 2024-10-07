@@ -72,7 +72,7 @@ a
 }
 
 .menu li {
-    margin-left: 8px;
+    margin-left: 15px;
     list-style: none;
 }
 
@@ -88,6 +88,7 @@ a
 }
 
 /* main */
+
 /*section*/
 
 section {
@@ -95,7 +96,8 @@ section {
 }
 
 .blue {
-    background-color: #00008B;
+    background-color: #255EE9;
+
 }
 
 .white {
@@ -108,23 +110,46 @@ section {
 
 
 .hero-container {
-    background-color: #be68be;
+    background-color: #255EE9;
     min-height: 300px;
     width: 40%;
     max-width: 900px;
     margin: 0 auto;
-    border-style: dashed;
+    color: white;
 }
-/* .row {
-    display: flex;
-    justify-content: space-between;
-} */
 
-/* debug */
-/* [class^="col-"] {
-    border: 2px solid green;
-    min-height: 300px;
-} */
+.title {
+    padding-left: 40px;
+    padding-bottom: 20px;
+}
+
+.text {
+    padding-bottom: 20px;
+}
+.two-btn {
+    padding-top: 40px;
+}
+/* .btn {
+    background-color: #FFFFFF;
+    padding: 5px 10px;
+    font-family: Whitney;
+    font-weight: 300;
+    font-size: 14px;
+    color: black;
+    text-decoration: none;
+    border-radius: 50px; */
+
+
+.btn-white {
+    background-color: white;
+    color: black;
+   
+}
+
+.btn-black {
+    background-color: black;
+    color: white;
+}
 
 .two-col {
     display: flex;
